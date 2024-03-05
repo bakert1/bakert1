@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my Github profile! If you are a recruiter or hiring manager interested in my coding ability or style, please contact me via email for a code sample. Most of my recent work is hosted on private repositories, but I would happy to share if requested.
+Welcome to my Github profile! If you are a recruiter or hiring manager interested in my coding ability or style, please contact me via email for a code sample. Most of my recent work is hosted on private Gitlab repositories, but I would happy to share if requested.
 
 I'm currently developing computer vision pipelines using machine learning and deep learning. Recent applications include segmenting large medical images (100,000+ voxels) with U-Net architectures and registering these same medical images using the Elastix image registration toolkit. I enjoy working with large 3D image data and overcoming challenges with processing time, visualization, and class imbalance.
 
